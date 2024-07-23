@@ -1,12 +1,12 @@
 <h1 align="center"> Hello, I'm Franco Mitrushi 👨‍💻 </h1>
 
-<h3 align="center">  Junior Deveolper </h3> <br>
+<h3 align="center">  Junior Front-End Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/franco-mitrushi/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Franco_Mitrushi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
 <a href="https://dev.to/irvingose"><img alt="Dev Community" src="https://img.shields.io/badge/-Franco_Mitrushi-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/irvingose"></a>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
